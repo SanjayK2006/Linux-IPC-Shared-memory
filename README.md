@@ -20,7 +20,7 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 <h2>Developed by : Sanjay K </h2> 
-<h3>Register Number : 212223220094/h3>
+<h3>Register Number : 212223220094</h3>
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 ~~~
